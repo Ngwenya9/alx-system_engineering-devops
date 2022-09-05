@@ -1,0 +1,2 @@
+#!/bin/bashf
+find -type f -name "*.js" -dalete
